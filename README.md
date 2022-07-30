@@ -24,11 +24,9 @@ $ pip install -r requirments.txt
 3. Enter
 4. ```bash
   $ cd c:\path\to\BotPreSearch\
-  ```
-5.```bash
   $ python3 Presearch.py
   ```
-6.Stop BOT = Ctrl + C
+5.Stop BOT = Ctrl + C
   
 ### Using virtualenv
 
