@@ -1,6 +1,6 @@
-# Presearch Bot Farmer
+# Presearch Bot
 
-This bot will farm pre token with presearch.
+This bot will farm [PRE](https://coinmarketcap.com/fr/currencies/presearch/)token with presearch.
 Before use this bot you need to register here [presearch](https://presearch.com/signup?rid=4001906)
 
 Disclaimer: This use is against TOS of presearch. Its use is your responsibility.
@@ -17,6 +17,19 @@ Download [python](https://www.python.org/downloads/)
 $ pip install -r requirments.txt
 ```
 
+## Utilisation
+
+1. Windows + R 
+2. cmd
+3. Enter
+4. ```bash
+  $ cd c:\path\to\BotPreSearch\
+  ```
+5.```bash
+  $ python3 Presearch.py
+  ```
+6.Stop BOT = Ctrl + C
+  
 ### Using virtualenv
 
 If you don't want to change your python configuration, consider using a venv.
