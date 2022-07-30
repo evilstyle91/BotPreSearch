@@ -19,10 +19,7 @@ $ pip install -r requirments.txt
 
 ## Utilisation
 
-1. Windows + R 
-2. cmd
-3. Enter
-
+1. Windows + R (cmd)
 ```bash
 $ cd c:\path\to\BotPreSearch\
 $ python3 Presearch.py
