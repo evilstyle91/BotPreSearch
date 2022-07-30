@@ -17,7 +17,7 @@ Download [python](https://www.python.org/downloads/)
 $ pip install -r requirments.txt
 ```
 
-## Utilisation
+## Use
 
 1. Windows + R (cmd)
 ```bash
