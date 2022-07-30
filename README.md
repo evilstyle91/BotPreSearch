@@ -1,6 +1,6 @@
 # Presearch Bot
 
-This bot will farm [PRE](https://coinmarketcap.com/fr/currencies/presearch/)token with presearch.
+This bot will farm [PRE](https://coinmarketcap.com/fr/currencies/presearch/) token with presearch.
 Before use this bot you need to register here [presearch](https://presearch.com/signup?rid=4001906)
 
 Disclaimer: This use is against TOS of presearch. Its use is your responsibility.
